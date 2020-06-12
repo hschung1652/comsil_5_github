@@ -3,7 +3,7 @@
 #include <limits>
 
 
-//this is for branch1
+//this is for branch3
 void prnMenu()
 {
     cout << "*******************************************" << endl;
@@ -28,7 +28,7 @@ int main()
     else
         p = new LinkedList<int>(); // 정수를 저장하는 연결 리스트
     // 처리 부분
-    //this is for branch3
+    //this is for branch1
     do
     {
         selectNumber = 0;
