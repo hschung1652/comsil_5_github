@@ -7,10 +7,12 @@ void prnMenu()
 {
     cout << "*******************************************" << endl;
     cout << "* 1. 삽입 2. 삭제 3. 출력 4. 종료 *" << endl;
+    //this is for branch3
     cout << "*******************************************" << endl;
     cout << endl;
     cout << "원하시는 메뉴를 골라주세요: ";
 }
+//this is for branch2
 int main()
 {
     // 스택 및 연결 리스트 테스트용 코드
@@ -26,6 +28,7 @@ int main()
     else
         p = new LinkedList<int>(); // 정수를 저장하는 연결 리스트
     // 처리 부분
+    //this is for branch1
     do
     {
         selectNumber = 0;
