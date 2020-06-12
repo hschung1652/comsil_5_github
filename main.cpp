@@ -2,11 +2,12 @@
 #include <ios>
 #include <limits>
 
-//this is for branch3
+
 void prnMenu()
 {
     cout << "*******************************************" << endl;
     cout << "* 1. 삽입 2. 삭제 3. 출력 4. 종료 *" << endl;
+    //this is for branch3
     cout << "*******************************************" << endl;
     cout << endl;
     cout << "원하시는 메뉴를 골라주세요: ";
