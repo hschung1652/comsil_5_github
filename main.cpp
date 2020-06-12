@@ -2,8 +2,7 @@
 #include <ios>
 #include <limits>
 
-//this is for branch1
-//this is branch2
+
 void prnMenu()
 {
     cout << "*******************************************" << endl;
@@ -12,6 +11,7 @@ void prnMenu()
     cout << endl;
     cout << "원하시는 메뉴를 골라주세요: ";
 }
+//this is for branch2
 int main()
 {
     // 스택 및 연결 리스트 테스트용 코드
